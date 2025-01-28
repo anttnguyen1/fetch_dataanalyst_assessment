@@ -1,0 +1,1 @@
+Attached are my completed assessment files. I've included an updated TRANSACTION data file that includes two fields I pulled in from the PRODUCTS data to support my analysis. The second tab contains the pivot table and chart I created for the analysis. 
